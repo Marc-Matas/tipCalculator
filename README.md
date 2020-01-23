@@ -6,17 +6,17 @@
 
 Submitted by: **Marc Matas**
 
-Time spent: **4** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
-* [ ] UI animations
+* [x] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
@@ -29,13 +29,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/E0qYZab.gifv' title='Marc's Tipper Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Simulator keyboard was not popping when text field was tapped. Fixed by Hardware -> Keyboard -> Connect Hardware Keyboard
+Was unable to create settings page with custom tip option because the video was difficult to follow
+Was Unable to use RecordIt to make a gif, used LiceCap but was still difficult to manage my gif
 
 
 ## License
